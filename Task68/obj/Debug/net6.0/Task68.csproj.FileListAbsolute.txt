@@ -1,0 +1,15 @@
+C:\Finale\Task68\bin\Debug\net6.0\Task68.exe
+C:\Finale\Task68\bin\Debug\net6.0\Task68.deps.json
+C:\Finale\Task68\bin\Debug\net6.0\Task68.runtimeconfig.json
+C:\Finale\Task68\bin\Debug\net6.0\Task68.dll
+C:\Finale\Task68\bin\Debug\net6.0\Task68.pdb
+C:\Finale\Task68\obj\Debug\net6.0\Task68.csproj.AssemblyReference.cache
+C:\Finale\Task68\obj\Debug\net6.0\Task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Finale\Task68\obj\Debug\net6.0\Task68.AssemblyInfoInputs.cache
+C:\Finale\Task68\obj\Debug\net6.0\Task68.AssemblyInfo.cs
+C:\Finale\Task68\obj\Debug\net6.0\Task68.csproj.CoreCompileInputs.cache
+C:\Finale\Task68\obj\Debug\net6.0\Task68.dll
+C:\Finale\Task68\obj\Debug\net6.0\refint\Task68.dll
+C:\Finale\Task68\obj\Debug\net6.0\Task68.pdb
+C:\Finale\Task68\obj\Debug\net6.0\Task68.genruntimeconfig.cache
+C:\Finale\Task68\obj\Debug\net6.0\ref\Task68.dll
